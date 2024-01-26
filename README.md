@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # testi
 # testi
 # testi
+# fs-24-1
