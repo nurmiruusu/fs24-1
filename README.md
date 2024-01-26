@@ -13,3 +13,4 @@ Currently, two official plugins are available:
 # fs-24-1
 # fs24-1
 # fs24-1
+# fs24-1
